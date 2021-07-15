@@ -31,7 +31,7 @@
       o	Provided code for creating bcrypt encryption  
       o	Worked on bcrypt encryption with Pushkar Raut  
 
-•	Saish Todankar ( Email: todankarsaish@gmail.com // Github Username:  ):
+•	Saish Todankar ( Email: todankarsaish@gmail.com // Github Username: Saish0731 ):
 
       o	Designed Database Schema  
       o	Worked on creating tables with Ritesh Gaikwad  
