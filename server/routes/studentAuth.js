@@ -6,7 +6,9 @@ const bcrypt = require("bcrypt");
 
 const jwtGenerator = require("../routes/utils/jwtGenerator");
 
-router.post("/register", async (req, res) => {
+const validInfo = require("../middleware/validInfo");
+
+router.post("/register", validInfo, async (req, res) => {
     try {
         // 1. Break down req to get (std_id, name, email, password)
 
@@ -53,7 +55,7 @@ router.post("/register", async (req, res) => {
 
 // Login Route
 
-router.post("/login", async(req,res) => {
+router.post("/login", validInfo, async(req,res) => {
     try {
         
         //1. desturcture req.body
@@ -67,9 +69,23 @@ router.post("/login", async(req,res) => {
         ]);
         
 
+        if (user.rows.length === 0)
+        {
+            return res.status(401).json("Email or Password Inccorect");
+        }
         //3. Confirming the password
 
+        const vaildPasswod = await bcrypt.compare(spassword, user.row[0].std_password);
+
+        if (!vaildPasswod)
+        {
+            return res.status(401).json("Email or Password is incorrect");
+        }
+
         //4. give them JWT token
+
+        const token = jwtGenerator(user.rows[0].std_id);
+        res.json(token);
 
 
     } catch (error) {
