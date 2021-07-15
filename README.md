@@ -41,5 +41,9 @@
       
 •	Shivali Jangam (Email: shivalijangam0408@gmail.com // Github Username: shivali0408):  
 
-	o	Worked on authority level of different actors
+	  o	Worked on authority level of different actors  
+	
+•	Pranitha Bangera ( Email: pranithabangera26@gmail.com // Github Username : ):  
+
+	  o	Designed and created Login and registration page for Guardian.
 
