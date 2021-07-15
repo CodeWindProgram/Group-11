@@ -4,7 +4,8 @@
 
 •	Madhur Mohare (Email: madhur3019994@gmail.com // Github Username: MemoryMaker1412 ):  
 
-	  o	Created Postgres Database  
+	  o	Team Lead for Group 11 ( Authentication Module )  
+	  o	Created Postgres Database
       o	Created Login and Registration Routes  
       o	Created Authorization and info-Validation Middleware  
       o	Integrated JWT into the code  
@@ -47,3 +48,6 @@
 
 	  o	Designed and created Login and registration page for Guardian.
 
+•	Anshu Sharma (Email: anshushah83@gmail.com  // Github Username: Anshushah123):
+
+	  o	Helped in building login and registration page for guardian with Pranitha Bangera
