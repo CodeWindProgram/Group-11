@@ -2,36 +2,39 @@
 
 ## *Problem Statement: Create Login and Registration page with varying authority of users.*
 
-Madhur Mohare (Email: madhur3019994@gmail.com // Github Username: MemoryMaker1412):  
+•	Madhur Mohare (Email: madhur3019994@gmail.com // Github Username: MemoryMaker1412):
 
-•	Created Postgres Database  
-•	Created Login and Registration Routes  
-•	Created Authorization and info-Validation Middleware  
-•	Integrated JWT into the code  
-  
-  
-Kaustubh Patil ( Email: kaustubhpatil065@gmail.com // Github Username: ):  
+			o	Created Postgres Database  
+      o	Created Login and Registration Routes  
+      o	Created Authorization and info-Validation Middleware  
+      o	Integrated JWT into the code  
 
-•	Designed & created the frontend part of the problem statement.  
-•	Designed & created the login page and its validation.  
-•	Designed & created the sign-up page and its validation.  
+•	Kaustubh Patil ( Email: kaustubhpatil065@gmail.com // Github Username: ):
 
-Pushkar Raut ( Email: pushkar_inline6@hotmail.com // Github Username: PushkarRaut ):  
+      o	Designed & created the frontend part of the problem statement.  
+      o	Designed & created the login page and its validation.  
+      o	Designed & created the sign-up page and its validation.  
 
-•	Created bcrypt encryption for password  
+•	Pushkar Raut ( Email: pushkar_inline6@hotmail.com // Github Username: PushkarRaut ):
 
-Ritesh Gaikwad ( Email: gaikwadritesh27@gmail.com // Github Username: ):  
+      o	Created bcrypt encryption for password  
+      o	Worked on JWT Integration with Madhur Mohare  
 
-•	Created tables of different actors with their respective info  
+•	Ritesh Gaikwad ( Email: gaikwadritesh27@gmail.com // Github Username: ):
 
-Swaraj Bodhani ( Email: swaraj.bodhani@gmail.com // Github Username: ):  
+      o	Designed table of content and ER diagram  
+      o	Created tables of different actors with their respective info  
 
-•	Provided code for creating bcrypt encryption  
+•	Swaraj Bodhani ( Email: swaraj.bodhani@gmail.com // Github Username: ):
 
-Saish Todankar ( Email: todankarsaish@gmail.com // Github Username:  ):  
+      o	Provided code for creating bcrypt encryption  
+      o	Worked on bcrypt encryption with Pushkar Raut  
 
-•	Designed Database Schema  
+•	Saish Todankar ( Email: todankarsaish@gmail.com // Github Username:  ):
 
-Shreyash Darne ( Email: ssd11437@gmail.com // Github Username: ):  
+      o	Designed Database Schema  
+      o	Worked on creating tables with Ritesh Gaikwad  
 
-•	Before implementation, designed the UI for Student, Faculty, Guardian and Admin.  
+•	Shreyash Darne ( Email: ssd11437@gmail.com // Github Username: ):
+
+      o	Before implementation, designed the UI for Student, Faculty, Guardian and Admin.
