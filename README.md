@@ -2,14 +2,14 @@
 
 ## *Problem Statement: Create Login and Registration page with varying authority of users.*
 
-•	Madhur Mohare (Email: madhur3019994@gmail.com // Github Username: MemoryMaker1412):  
+•	Madhur Mohare (Email: madhur3019994@gmail.com // Github Username: MemoryMaker1412 ):  
 
 	  o	Created Postgres Database  
       o	Created Login and Registration Routes  
       o	Created Authorization and info-Validation Middleware  
       o	Integrated JWT into the code  
 
-•	Kaustubh Patil ( Email: kaustubhpatil065@gmail.com // Github Username: ):
+•	Kaustubh Patil ( Email: kaustubhpatil065@gmail.com // Github Username: PatilKaustubh05 ):
 
       o	Designed & created the frontend part of the problem statement.  
       o	Designed & created the login page and its validation.  
@@ -20,7 +20,7 @@
       o	Created bcrypt encryption for password  
       o	Worked on JWT Integration with Madhur Mohare  
 
-•	Ritesh Gaikwad ( Email: gaikwadritesh27@gmail.com // Github Username: ):
+•	Ritesh Gaikwad ( Email: gaikwadritesh27@gmail.com // Github Username: Ritesh7045 ):
 
       o	Designed table of content and ER diagram  
       o	Created tables of different actors with their respective info  
@@ -35,15 +35,15 @@
       o	Designed Database Schema  
       o	Worked on creating tables with Ritesh Gaikwad  
 
-•	Shreyash Darne ( Email: ssd11437@gmail.com // Github Username: ):
+•	Shreyash Darne ( Email: ssd11437@gmail.com // Github Username: Shreyash Darne ):
 
       o	Before implementation, designed the UI for Student, Faculty, Guardian and Admin.  
       
-•	Shivali Jangam (Email: shivalijangam0408@gmail.com // Github Username: shivali0408):  
+•	Shivali Jangam (Email: shivalijangam0408@gmail.com // Github Username: shivali0408 ):  
 
 	  o	Worked on authority level of different actors  
 	
-•	Pranitha Bangera ( Email: pranithabangera26@gmail.com // Github Username : ):  
+•	Pranitha Bangera ( Email: pranithabangera26@gmail.com // Github Username : PranithaBangera ):  
 
 	  o	Designed and created Login and registration page for Guardian.
 
